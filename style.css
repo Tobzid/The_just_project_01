@@ -1,0 +1,22 @@
+.butn_one{
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.bttn_two{
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
