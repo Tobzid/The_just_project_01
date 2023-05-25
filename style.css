@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
+
 .butn_one{
     background-color: blue;
+    font-family: 'Ubuntu Mono', monospace;
     color: white;
     font-size: 15px;
     padding: 10px;
@@ -11,6 +14,7 @@
 
 .bttn_two{
     background-color: blue;
+    font-family: 'Ubuntu Mono', monospace;
     color: white;
     font-size: 15px;
     padding: 10px;
