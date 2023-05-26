@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
+body{
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 15px;
+    width: 100%;
+    text-align: center;
+}
+/* This is the styling for the about page*/
+.first-sess{
+    border-bottom: 1px solid black;
+}
+
+.second-sess{
+    border-bottom: 1px solid black;
+}
+
+.butn_one{
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+/*The styling for the about page ends here*/
+
+/*The styling for the index page starts here*/
+.ind-first-sess{
+    border-bottom: 1px solid black;
+}
+
+.ind-second-sess{
+    border-bottom: 1px solid black;
+}
+
+.bttn_two{
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+/*The Table styling starts here*/
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
+body{
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 15px;
+}
+
+table, th,td{
+    border: 1px solid black;
+    margin-top: auto;
+    padding:10px;
+    border-collapse: collapse;
+}
+/* The Table styling ends here*/
