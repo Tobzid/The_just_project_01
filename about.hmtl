@@ -29,11 +29,10 @@
 <p>Do you want to go back to the <a href="index.html">Home Page</a></p>
 <p>No? Then you can go on and sign up or log in.</p>
 <input class="butn_one" type="submit" value="Get Started" id=" ">
-<<<<<<< HEAD
+
  <a href="table.html"> <input class="butn_one" type="submit" value="Table Task" id=" "> </a>
-=======
     <input class="butn_one" type="submit" value="Sign in Now" id=" ">
->>>>>>> 9f7d1c8bee4d8420d1c5c6423797d1387c108f4c
+
 </section>
 
 
