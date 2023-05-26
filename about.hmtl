@@ -5,18 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     
-    <section>
+    <section class="first-sess">
         <img src="logo.jpg">
         
-        <h2>The Just Projects</h2>
+        <h1>The Just Projects</h1>
         <p>we learn by doing</p>
     </section>
       
-<section>
-<h2>What you stand to gain</h2>
+<section class="second-sess">
+<h1>What you stand to gain</h1>
 <p>a. Interact with your colleagues and don't miss team discussions.  </p>
 <p>b. Always feel free to ask your mentors for help when stuck.</p>
 <p>c. Get confident and improve on your googling skills.</p>
@@ -24,11 +25,11 @@
 
 </section>
 
-<section>
+<section class="third-sess">
 <p>Do you want to go back to the <a href="index.html">Home Page</a></p>
 <p>No? Then you can go on and sign up or log in.</p>
-<input type="submit" value="Get Started" id=" ">
-    <input type="submit" value="Sign in Now" id=" ">
+<input class="butn_one" type="submit" value="Get Started" id=" ">
+ <a href="table.html"> <input class="butn_one" type="submit" value="Table Task" id=" "> </a>
 </section>
 
 
