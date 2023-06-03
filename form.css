@@ -1,0 +1,51 @@
+body{
+    background-color: #F5F5F5;
+    width: 1134px;
+    height:1189px;
+    padding: 78px 280px 70px 142px;
+}
+
+.Form{
+    background-color:white;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    padding: 20px 40px 10px 30px;   
+}
+
+.item h1{
+    font-size: 32px;
+    color: black;
+}
+
+.theRow{
+    display: flex;
+    width: 90%;
+}
+
+.theLabel{
+    width: 35%;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 24px;
+    padding-bottom: 10px;
+}
+
+.theInput{
+    width: 65%;
+}
+
+.inputWidth{
+    width: 70%;
+}
+
+#Bttn{
+    background-color: blue;
+    border: 0;
+    padding: 5px;
+    color: #F5F5F5;
+}
+
+#theSelect{
+    padding: 3px;
+}
